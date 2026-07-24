@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>합정 유흥 업체 비교</title>
+  <rect width="64" height="64" rx="11" fill="hsl(189 72% 21%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(333 68% 62%)" opacity="0.16"/>
+  <g transform="rotate(90 32 32)"><path d="M12 44 26 24l10 12 6-8 8 16Z" fill="hsl(333 68% 62%)"/><path d="M12 44 26 24l10 12" fill="none" stroke="hsl(189 24% 96%)" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/></g>
+</svg>
